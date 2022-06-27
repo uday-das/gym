@@ -49,10 +49,10 @@ ul{
     top: 33px;
     right: 30px;
 }
-
+ 
 .navbar li{
     display: inline-block;
-    font-size: 21px;
+    font-size: 21px; 
 }
 
 .navbar li a{
